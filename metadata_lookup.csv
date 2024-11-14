@@ -1,0 +1,46 @@
+INDEX,CLASS,Aggregation,new_name,standard_name,long_name,units_in
+PSurf,1_ATM,MEAN,air_pressure,air_pressure,Surface pressure,Pa
+Tair,1_ATM,MEAN,mean_air_temperature,air_temperature,2-meter mean air temperature,K
+CAPE,1_ATM,MEAN,atmosphere_convective_available_potential_energy,atmosphere_convective_available_potential_energy,Convective Available Potential Energy,J kg-1
+CanopInt,3_LAND,MEAN,canopy_water_amount,canopy_water_amount,Plant canopy surface water,kg m-2
+soil_depth,0_COORD,COORD,soil_depth,depth,soil depth,m
+soil_thickness,0_COORD,COORD,soil_layer_thickness,depth,soil layer thickness,m
+Wind_E,1_ATM,MEAN,eastward_wind,eastward_wind,10-meter above ground Zonal wind speed,m s-1
+Qg,2_ENERGY,INTEGRAL,downward_heat_flux_at_ground_level_in_soil,integral_wrt_time_of_downward_heat_flux_at_ground_level_in_soil,Ground heat flux,J m-2
+LWdown,1_ATM,INTEGRAL,surface_downward_longwave_flux,integral_wrt_time_of_surface_net_downward_longwave_flux,Longwave radiation flux downwards (surface),J m-2
+LWnet,2_ENERGY,INTEGRAL,surface_net_downward_longwave_flux,integral_wrt_time_of_surface_net_downward_longwave_flux,Net longwave radiation flux (surface),J m-2
+SWdown,1_ATM,INTEGRAL,surface_downward_shortwave_flux,integral_wrt_time_of_surface_net_downward_shortwave_flux,Shortwave radiation flux downwards (surface),J m-2
+SWnet,2_ENERGY,INTEGRAL,surface_net_downward_shortwave_flux,integral_wrt_time_of_surface_net_downward_shortwave_flux,Net shortwave radiation flux (surface),J m-2
+Qh,2_ENERGY,INTEGRAL,surface_sensible_heat_flux,integral_wrt_time_of_surface_sensible_heat_flux,Sensible heat flux,J m-2
+Qf,2_ENERGY,INTEGRAL,surface_snow_and_ice_refreezing_flux,"integral_wrt_time_of_surface_snow_and_ice_refreezing_flux""",Snow phase-change heat flux,J m-2
+SubSnow,2_ENERGY,INTEGRAL,surface_snow_sublimation_heat_flux,integral_wrt_time_of_surface_snow_sublimation_heat_flux,Sublimation (evaporation from snow),J m-2
+Qle,2_ENERGY,INTEGRAL,surface_upward_latent_heat_flux,integral_wrt_time_of_surface_upward_latent_heat_flux,Latent heat flux,J m-2
+ESoil,2_ENERGY,INTEGRAL,upward_latent_heat_flux_into_air_due_to_evaporation_from_soil,integral_wrt_time_of_upward_latent_heat_flux_into_air_due_to_evaporation_from_soil,Direct evaporation from bare soil,J m-2
+ECanop,2_ENERGY,INTEGRAL,upward_latent_heat_flux_into_air_due_to_evaporation_of_intercepted_precipitation,integral_wrt_time_of_upward_latent_heat_flux_into_air_due_to_evaporation_of_intercepted_precipitation,Canopy water evaporation,J m-2
+TVeg,2_ENERGY,INTEGRAL,upward_latent_heat_flux_into_air_due_to_transpiration,integral_wrt_time_of_upward_latent_heat_flux_into_air_due_to_transpiration,Transpiration,J m-2
+PotEvap,2_ENERGY,INTEGRAL,surface_upward_potential_latent_heat_flux,integral_wrt_time_of_upward_water_potential_evaporation_flux,Potential evapotranspiration,J m-2
+lat,0_COORD,COORD,lat,latitude,latitude,degrees_north
+LAI,3_LAND,MEAN,leaf_area_index,leaf_area_index,Leaf Area Index,unitless
+liquid_water_content_of_soil_layer,3_LAND,MEAN,liquid_water_content_of_soil_layer,liquid_water_content_of_soil_layer,Soil Liquid Water Content,kg m-2
+SWE,1_ATM,MEAN,liquid_water_content_of_surface_snow,liquid_water_content_of_surface_snow,Snow Water Equivalent,kg m-2
+lon,0_COORD,COORD,lon,longitude,longitude,degrees_east
+mass_content_of_water_in_soil_layer,3_LAND,MEAN,mass_content_of_water_in_soil_layer,mass_content_of_water_in_soil_layer,Soil Liquid Water Content,kg m-2
+RootMoist,3_LAND,MEAN,mass_content_of_water_in_soil_layer_defined_by_root_depth,mass_content_of_water_in_soil_layer_defined_by_root_depth,Root zone soil moisture,kg m-2
+Wind_N,1_ATM,MEAN,northward_wind,northward_wind,10-meter above ground Meridional wind speed,m s-1
+Rainf,1_ATM,SUM,precipitation_amount,precipitation_amount,Liquid precipitation (rainfall),kg m-2
+Snowf,1_ATM,SUM,snowfall_amount,snowfall_amount,Frozen precipitation (snowfall),kg m-2
+soil_temperature,3_LAND,MEAN,soil_temperature,soil_temperature,Soil Temperature,K
+Qair,1_ATM,MEAN,specific_humidity,specific_humidity,2-meter above ground Specific humidity,kg kg-1
+Qsb,3_LAND,SUM,subsurface_runoff_amount,subsurface_runoff_amount,Subsurface runoff (baseflow),kg m-2
+Albedo,3_LAND,MEAN,surface_albedo,surface_albedo,Surface albedo,%
+Qs,3_LAND,SUM,surface_runoff_amount,surface_runoff_amount,Surface runoff (non-infiltrating),kg m-2
+SnowFrac,3_LAND,MEAN,surface_snow_area_fraction,surface_snow_area_fraction,Snow cover,fraction
+Qsm,3_LAND,SUM,surface_snow_melt_amount,surface_snow_melt_amount,Snowmelt,kg m-2
+SnowDepth,3_LAND,MEAN,surface_snow_thickness,surface_snow_thickness,Snow depth,m
+AvgSurfT,3_LAND,MEAN,surface_temperature,surface_temperature,Average surface skin temperature,K
+soil_depth_bnds,0_COORD,COORD,soil_layer_depth_bnds,thickness_of_soil_layer,soil depth bounds,m
+time,0_COORD,COORD,time,time,time,hours since 1970-01-01 00:00:00
+time_bnds,0_COORD,COORD,time_bounds,time,time bounds,hours since 1970-01-01 00:00:00
+GVEG,3_LAND,MEAN,vegetation_area_fraction,vegetation_area_fraction,Green vegetation,fraction
+Evap,3_LAND,SUM,water_evapotranspiration_amount,water_evapotranspiration_amount,Total evapotranspiration,kg m-2
+Streamflow,3_LAND,INTEGRAL,water_volume_transport_in_river_channel,water_volume_transport_in_river_channel,Streamflow,m3
