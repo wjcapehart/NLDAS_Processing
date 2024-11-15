@@ -80,7 +80,7 @@ df_varlut = pd.read_csv(filepath_or_buffer = "./metadata_lookup.csv", index_col=
 #
 # Data Sets and EarthAccess 
 #
-root_dir         = "./data/"
+root_dir         = "/data/DATASETS/NLDAS/netcdf/"
 doi_nldas_noah  = "10.5067/T4OW83T8EXDO"
 doi_nldas_force = "10.5067/THUF4J1RLSYG"
 
