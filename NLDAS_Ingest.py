@@ -100,8 +100,8 @@ dt              = 3600.
 # Date Range
 #
 
-start_date = np.datetime64('2013-10-01')
-end_date   = np.datetime64('2013-10-07')
+start_date = np.datetime64('1979-01-02')
+end_date   = np.datetime64('1979-01-31')
 date_range = np.arange(start_date, end_date + np.timedelta64(1, 'D'))
 
 for working_date in date_range:
