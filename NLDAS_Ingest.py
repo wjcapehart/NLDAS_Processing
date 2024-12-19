@@ -26,6 +26,7 @@ import pandas            as pd
 import earthaccess       as earthaccess
 import os                as os
 import h5netcdf          as h5netcdf
+import platform          as platform
 
 import cartopy.crs       as ccrs
 import cartopy.feature   as cfeature
