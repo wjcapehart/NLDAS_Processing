@@ -117,7 +117,7 @@ for working_date in date_range:
 
 #################################################
 #
-# Date Range
+# Compression Encoding
 #
 
 variable_list = ["mean_air_temperature", 
