@@ -80,7 +80,7 @@ df_varlut = pd.read_csv(filepath_or_buffer = "./metadata_lookup.csv", index_col=
 #
 # Data Sets and EarthAccess 
 #
-root_dir         = "/data/DATASETS/NLDAS/netcdf/"
+root_dir         = "./data/"
 doi_nldas_noah  = "10.5067/T4OW83T8EXDO"
 doi_nldas_force = "10.5067/THUF4J1RLSYG"
 
@@ -108,6 +108,68 @@ for working_date in date_range:
     print(working_date)
 
 
+#
+#################################################
+
+
+# In[ ]:
+
+
+#################################################
+#
+# Date Range
+#
+
+variable_list = ["mean_air_temperature", 
+                 "specific_humidity", 
+                 "air_pressure", 
+                 "eastward_wind", 
+                 "northward_wind", 
+                 "atmosphere_convective_available_potential_energy", 
+                 "surface_downward_shortwave_flux", 
+                 "surface_downward_longwave_flux", 
+                 "surface_net_downward_shortwave_flux", 
+                 "surface_net_downward_longwave_flux", 
+                 "surface_upward_latent_heat_flux", 
+                 "surface_sensible_heat_flux", 
+                 "downward_heat_flux_at_ground_level_in_soil", 
+                 "surface_snow_and_ice_refreezing_flux", 
+                 "snowfall_amount", 
+                 "precipitation_amount", 
+                 "water_evapotranspiration_amount", 
+                 "surface_runoff_amount", 
+                 "subsurface_runoff_amount", 
+                 "surface_snow_melt_amount", 
+                 "surface_temperature", 
+                 "surface_albedo", 
+                 "liquid_water_content_of_surface_snow", 
+                 "surface_snow_thickness", 
+                 "surface_snow_area_fraction", 
+                 "mass_content_of_water_in_soil_layer_defined_by_root_depth", 
+                 "surface_upward_potential_latent_heat_flux", 
+                 "upward_latent_heat_flux_into_air_due_to_evaporation_of_intercepted_precipitation", 
+                 "upward_latent_heat_flux_into_air_due_to_transpiration", 
+                 "upward_latent_heat_flux_into_air_due_to_evaporation_from_soil", 
+                 "surface_snow_sublimation_heat_flux", 
+                 "canopy_water_amount", 
+                 "leaf_area_index", 
+                 "vegetation_area_fraction", 
+                 "water_volume_transport_in_river_channel", 
+                 "liquid_water_content_of_soil_layer",
+                 "mass_content_of_water_in_soil_layer",
+                 "soil_temperature",
+                 "maximum_air_temperature", 
+                 "minimum_air_temperature"]
+
+
+encoding = {"time" :{"units":"seconds since 1970-01-01 00:00:00",
+                     "dtype":np.float64}}
+
+for variable in variable_list:
+    encoding[variable] = dict(zlib      =       True,
+                              complevel =          5, 
+                              dtype     = np.float32)
+print(encoding)
 #
 #################################################
 
@@ -355,10 +417,9 @@ for working_date in date_range:
         print(output_directory + " Exists")
     print("writing "+output_directory + fileout)
     xf_noah_daily.to_netcdf(path           = output_directory + fileout,
-                            unlimited_dims  = "time",
-                            engine  = "h5netcdf",
-                            encoding        ={"time":{"units":     "seconds since 1970-01-01 00:00:00",
-                                                     "dtype":     np.float64}})
+                            unlimited_dims = "time",
+                            engine         = "h5netcdf",
+                            encoding       = encoding
     
     #
     #########################################################

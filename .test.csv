@@ -1,0 +1,585 @@
+id,name,datacoverage,mindate,maxdate,url,retrieved
+ACMC,Average cloudiness midnight to midnight from 30-second ceilometer data,1,1994-03-19,1996-05-28,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ACMH,Average cloudiness midnight to midnight from manual observations,1,1965-01-01,2005-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ACSC,Average cloudiness sunrise to sunset from 30-second ceilometer data,1,1994-02-01,1996-05-28,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ACSH,Average cloudiness sunrise to sunset from manual observations,1,1965-01-01,2005-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ALL,Base Data,0.95,1991-06-05,2024-12-11,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE45,Long-term averages of annual cooling degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE50,Long-term averages of annual cooling degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE55,Long-term averages of annual cooling degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE57,Long-term averages of annual cooling degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE60,Long-term averages of annual cooling degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE70,Long-term averages of annual cooling degree days with base 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-BASE72,Long-term averages of annual cooling degree days with base 72F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-CLDD-NORMAL,Long-term averages of annual cooling degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-DUTR-NORMAL,Long-term averages of annual diurnal temperature range,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE40,Long-term averages of annual growing degree days with base 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE45,Long-term averages of annual growing degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE50,Long-term averages of annual growing degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE55,Long-term averages of annual growing degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE57,Long-term averages of annual growing degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE60,Long-term averages of annual growing degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE65,Long-term averages of annual growing degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE70,Long-term averages of annual growing degree days with base 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-BASE72,Long-term averages of annual growing degree days with base 72F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-TB4886,Long-term averages of annual growing degree days with truncated bases 48F and 86F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-GRDD-TB5086,Long-term averages of annual growing degree days with truncated bases 50F and 86F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE40,Long-term averages of annual heating degree days with base 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE45,Long-term averages of annual heating degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE50,Long-term averages of annual heating degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE55,Long-term averages of annual heating degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE57,Long-term averages of annual heating degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-BASE60,Long-term averages of annual heating degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-HTDD-NORMAL,Long-term averages of annual heating degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-PRCP-AVGNDS-GE001HI,Long-term averages of number of days during the year with precipitation >= 0.01 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-PRCP-AVGNDS-GE010HI,Long-term averages of number of days during the year with precipitation >= 0.10 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-PRCP-AVGNDS-GE050HI,Long-term averages of number of days during the year with precipitation >= 0.50 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-PRCP-AVGNDS-GE100HI,Long-term averages of number of days during the year with precipitation >= 1.00 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-PRCP-NORMAL,Long-term averages of annual precipitation totals,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-AVGNDS-GE001TI,Long-term averages of number of days during the year with snowfall >= 0.1 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-AVGNDS-GE010TI,Long-term averages of number of days during the year with snowfall >= 1.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-AVGNDS-GE030TI,Long-term averages of number of days during the year with snowfall >= 3.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-AVGNDS-GE050TI,Long-term averages of number of days during the year with snowfall >= 5.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-AVGNDS-GE100TI,Long-term averages of number of days during the year with snowfall >= 10.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNOW-NORMAL,Long-term averages of annual snowfall totals,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNWD-AVGNDS-GE001WI,Long-term averages of number of days during the year with snow depth >= 1 inch,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNWD-AVGNDS-GE003WI,Long-term averages of number of days during the year with snow depth >= 3 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNWD-AVGNDS-GE005WI,Long-term averages of number of days during the year with snow depth >=5 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-SNWD-AVGNDS-GE010WI,Long-term averages of number of days during the year with snow depth >=10 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TAVG-NORMAL,Long-term averages of annual average temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH040,Long-term average number of days per year where tmax is greater than or equal to 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH050,Long-term average number of days per year where tmax is greater than or equal to 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH060,Long-term average number of days per year where tmax is greater than or equal to 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH070,Long-term average number of days per year where tmax is greater than or equal to 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH080,Long-term average number of days per year where tmax is greater than or equal to 80F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH090,Long-term average number of days per year where tmax is greater than or equal to 90F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-GRTH100,Long-term average number of days per year where tmax is greater than or equal to 100F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-AVGNDS-LSTH032,Long-term average number of days per year where tmax is less than or equal to 32F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMAX-NORMAL,Long-term averages of annual maximum temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH000,Long-term average number of days per year where tmin is less than or equal to 0F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH010,Long-term average number of days per year where tmin is less than or equal to 10F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH020,Long-term average number of days per year where tmin is less than or equal to 20F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH032,Long-term average number of days per year where tmin is less than or equal to 32F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH040,Long-term average number of days per year where tmin is less than or equal to 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH050,Long-term average number of days per year where tmin is less than or equal to 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH060,Long-term average number of days per year where tmin is less than or equal to 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-AVGNDS-LSTH070,Long-term average number of days per year where tmin is less than or equal to 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-NORMAL,Long-term averages of annual minimum temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP10,10% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP20,20% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP30,30% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP40,40% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP50,50% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP60,60% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP70,70% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP80,80% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T16FP90,90% probability date of first 16F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP10,10% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP20,20% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP30,30% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP40,40% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP50,50% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP60,60% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP70,70% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP80,80% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T20FP90,90% probability date of first 20F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP10,10% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP20,20% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP30,30% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP40,40% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP50,50% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP60,60% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP70,70% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP80,80% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T24FP90,90% probability date of first 24F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP10,10% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP20,20% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP30,30% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP40,40% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP50,50% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP60,60% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP70,70% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP80,80% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T28FP90,90% probability date of first 28F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP10,10% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP20,20% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP30,30% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP40,40% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP50,50% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP60,60% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP70,70% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP80,80% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T32FP90,90% probability date of first 32F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP10,10% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP20,20% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP30,30% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP40,40% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP50,50% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP60,60% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP70,70% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP80,80% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBFST-T36FP90,90% probability date of first 36F occurrence or earlier,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP10,10% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP20,20% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP30,30% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP40,40% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP50,50% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP60,60% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP70,70% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP80,80% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T16FP90,90% probability of 16F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP10,10% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP20,20% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP30,30% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP40,40% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP50,50% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP60,60% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP70,70% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP80,80% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T20FP90,90% probability of 20F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP10,10% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP20,20% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP30,30% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP40,40% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP50,50% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP60,60% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP70,70% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP80,80% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T24FP90,90% probability of 24F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP10,10% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP20,20% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP30,30% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP40,40% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP50,50% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP60,60% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP70,70% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP80,80% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T28FP90,90% probability of 28F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP10,10% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP20,20% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP30,30% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP40,40% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP50,50% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP60,60% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP70,70% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP80,80% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T32FP90,90% probability of 32F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP10,10% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP20,20% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP30,30% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP40,40% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP50,50% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP60,60% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP70,70% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP80,80% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBGSL-T36FP90,90% probability of 36F growing season length or longer,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP10,10% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP20,20% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP30,30% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP40,40% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP50,50% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP60,60% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP70,70% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP80,80% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T16FP90,90% probability date of last 16F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP10,10% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP20,20% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP30,30% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP40,40% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP50,50% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP60,60% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP70,70% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP80,80% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T20FP90,90% probability date of last 20F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP10,10% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP20,20% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP30,30% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP40,40% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP50,50% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP60,60% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP70,70% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP80,80% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T24FP90,90% probability date of last 24F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP10,10% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP20,20% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP30,30% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP40,40% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP50,50% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP60,60% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP70,70% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP80,80% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T28FP90,90% probability date of last 28F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP10,10% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP20,20% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP30,30% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP40,40% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP50,50% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP60,60% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP70,70% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP80,80% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T32FP90,90% probability date of last 32F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP10,10% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP20,20% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP30,30% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP40,40% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP50,50% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP60,60% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP70,70% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP80,80% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBLST-T36FP90,90% probability date of last 36F occurrence or later,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH016,probability of 16F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH020,probability of 20F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH024,probability of 24F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH028,probability of 28F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH032,probability of 32F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+ANN-TMIN-PRBOCC-LSTH036,probability of 36F or below at least once in the year,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+AWND,Average wind speed,1,1982-01-01,2024-12-09,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+CDSD,Cooling Degree Days Season to Date,1,1763-01-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+CLDD,Cooling Degree Days,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DAA,Digital Accumulation Array(One Hour Precipitation total (256 levels) with Dual Pol. algorithm),0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DAEV,Number of days included in the multiday evaporation total (MDEV),1,1948-08-02,2012-07-23,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DAPR,Number of days included in the multiday precipitation total (MDPR),1,1750-02-01,2024-12-10,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DASF,Number of days included in the multiday snow fall total (MDSF) ,1,1877-01-02,2023-01-17,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DATN,Number of days included in the multiday minimum temperature (MDTN),1,1750-02-01,2023-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DATX,Number of days included in the multiday maximum temperature (MDTX),1,1750-02-01,2023-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DAWM,Number of days included in the multiday wind movement (MDWM),1,1935-09-23,2010-06-21,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DHR,Digital Hybrid Scan Reflectivity,0.95,1994-05-20,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE45,Long-term averages of winter cooling degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE50,Long-term averages of winter cooling degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE55,Long-term averages of winter cooling degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE57,Long-term averages of winter cooling degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE60,Long-term averages of winter cooling degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE70,Long-term averages of winter cooling degree days with base 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-BASE72,Long-term averages of winter cooling degree days with base 72F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-CLDD-NORMAL,Long-term averages of winter cooling degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-DUTR-NORMAL,Long-term averages of winter diurnal temperature range,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE40,Long-term averages of winter growing degree days with base 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE45,Long-term averages of winter growing degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE50,Long-term averages of winter growing degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE55,Long-term averages of winter growing degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE57,Long-term averages of winter growing degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE60,Long-term averages of winter growing degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE65,Long-term averages of winter growing degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE70,Long-term averages of winter growing degree days with base 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-BASE72,Long-term averages of winter growing degree days with base 72F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-TB4886,Long-term averages of winter growing degree days with truncated bases 48F and 86F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-GRDD-TB5086,Long-term averages of winter growing degree days with truncated bases 50F and 86F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE40,Long-term averages of winter heating degree days with base 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE45,Long-term averages of winter heating degree days with base 45F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE50,Long-term averages of winter heating degree days with base 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE55,Long-term averages of winter heating degree days with base 55F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE57,Long-term averages of winter heating degree days with base 57F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-BASE60,Long-term averages of winter heating degree days with base 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-HTDD-NORMAL,Long-term averages of winter heating degree days with base 65F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-PRCP-AVGNDS-GE001HI,Long-term averages of number of days during December-February with precipitation >= 0.01 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-PRCP-AVGNDS-GE010HI,Long-term averages of number of days during December-February with precipitation >= 0.10 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-PRCP-AVGNDS-GE050HI,Long-term averages of number of days during December-February with precipitation >= 0.50 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-PRCP-AVGNDS-GE100HI,Long-term averages of number of days during December-February with precipitation >= 1.00 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-PRCP-NORMAL,Long-term averages of seasonal precipitation totals forDecember-February,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-AVGNDS-GE001TI,Long-term averages of number of days during December-February with snowfall >= 0.1 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-AVGNDS-GE010TI,Long-term averages of number of days during December-February with snowfall >= 1.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-AVGNDS-GE030TI,Long-term averages of number of days during December-February with snowfall >= 3.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-AVGNDS-GE050TI,Long-term averages of number of days during December-February with snowfall >= 5.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-AVGNDS-GE100TI,Long-term averages of number of days during December-February with snowfall >= 10.0 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNOW-NORMAL,Long-term averages of seasonal snowfall totals for December-February,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNWD-AVGNDS-GE001WI,Long-term averages of number of days during December-February with snow depth >= 1 inch,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNWD-AVGNDS-GE003WI,Long-term averages of number of days during December-February with snow depth >= 3 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNWD-AVGNDS-GE005WI,Long-term averages of number of days during December-February with snow depth >= 5 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-SNWD-AVGNDS-GE010WI,Long-term averages of number of days during December-February with snow depth >= 10 inches,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TAVG-NORMAL,Long-term averages of winter average temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH040,Long-term average number of days per winter where tmax is greater than or equal to 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH050,Long-term average number of days per winter where tmax is greater than or equal to 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH060,Long-term average number of days per winter where tmax is greater than or equal to 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH070,Long-term average number of days per winter where tmax is greater than or equal to 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH080,Long-term average number of days per winter where tmax is greater than or equal to 80F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH090,Long-term average number of days per winter where tmax is greater than or equal to 90F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-GRTH100,Long-term average number of days per winter where tmax is greater than or equal to 100F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-AVGNDS-LSTH032,Long-term average number of days per winter where tmax is less than or equal to 32F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMAX-NORMAL,Long-term averages of winter maximum temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH000,Long-term average number of days per winter where tmin is less than or equal to 0F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH010,Long-term average number of days per winter where tmin is less than or equal to 10F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH020,Long-term average number of days per winter where tmin is less than or equal to 20F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH032,Long-term average number of days per winter where tmin is less than or equal to 32F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH040,Long-term average number of days per winter where tmin is less than or equal to 40F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH050,Long-term average number of days per winter where tmin is less than or equal to 50F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH060,Long-term average number of days per winter where tmin is less than or equal to 60F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-AVGNDS-LSTH070,Long-term average number of days per winter where tmin is less than or equal to 70F,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DJF-TMIN-NORMAL,Long-term averages of winter minimum temperature,1,2010-01-01,2010-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE45,Long-term averages of daily cooling degree days with base 45F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE50,Long-term averages of daily cooling degree days with base 50F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE55,Long-term averages of daily cooling degree days with base 55F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE57,Long-term averages of daily cooling degree days with base 57F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE60,Long-term averages of daily cooling degree days with base 60F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE70,Long-term averages of daily cooling degree days with base 70F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-BASE72,Long-term averages of daily cooling degree days with base 72F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-CLDD-NORMAL,Long-term averages of daily cooling degree days with base 65F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-DUTR-NORMAL,Long-term averages of daily diurnal temperature range,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-DUTR-STDDEV,Long-term standard deviations of daily diurnal temperature range,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE40,Long-term averages of daily growing degree days with base 40F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE45,Long-term averages of daily growing degree days with base 45F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE50,Long-term averages of daily growing degree days with base 50F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE55,Long-term averages of daily growing degree days with base 55F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE57,Long-term averages of daily growing degree days with base 57F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE60,Long-term averages of daily growing degree days with base 60F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE65,Long-term averages of daily growing degree days with base 65F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE70,Long-term averages of daily growing degree days with base 70F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-BASE72,Long-term averages of daily growing degree days with base 72F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-TB4886,Long-term averages of daily growing degree days with truncated bases 48F and 86F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-GRDD-TB5086,Long-term averages of daily growing degree days with truncated bases 50F and 86F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE40,Long-term averages of daily heating degree days with base 40F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE45,Long-term averages of daily heating degree days with base 45F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE50,Long-term averages of daily heating degree days with base 50F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE55,Long-term averages of daily heating degree days with base 55F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE57,Long-term averages of daily heating degree days with base 57F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-BASE60,Long-term averages of daily heating degree days with base 60F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-HTDD-NORMAL,Long-term averages of daily heating degree days with base 65F,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-25PCTL,25th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-50PCTL,50th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-75PCTL,75th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-PCTALL-GE001HI,Probability of precipitation >= 0.01 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-PCTALL-GE010HI,Probability of precipitation >= 0.10 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-PCTALL-GE050HI,Probability of precipitation >= 0.50 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-PRCP-PCTALL-GE100HI,Probability of precipitation >= 1.00 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-25PCTL,25th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-50PCTL,50th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-75PCTL,75th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-PCTALL-GE001TI,Probability of snowfall >= 0.1 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-PCTALL-GE010TI,Probability of snowfall >= 1.0 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-PCTALL-GE030TI,Probability of snowfall >= 3.0 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-PCTALL-GE050TI,Probability of snowfall >= 5.0 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNOW-PCTALL-GE100TI,Probability of snowfall >= 10 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-25PCTL,25th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-50PCTL,50th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-75PCTL,75th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-PCTALL-GE001WI,Probability of snow depth >= 1 inch for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-PCTALL-GE003WI,Probability of snow depth >= 3 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-PCTALL-GE005WI,Probability of snow depth >= 5 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-SNWD-PCTALL-GE010WI,Probability of snow depth >= 10 inches for 29-day windows centered on each day of the year,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TAVG-NORMAL,Long-term averages of daily average temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TAVG-STDDEV,Long-term standard deviations of daily average temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TMAX-NORMAL,Long-term averages of daily maximum temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TMAX-STDDEV,Long-term standard deviations of daily maximum temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TMIN-NORMAL,Long-term averages of daily minimum temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DLY-TMIN-STDDEV,Long-term standard deviations of daily minimum temperature,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DOD,One Hour Precipitation Difference = DAA-N1P,0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DP01,Number of days with greater than or equal to 0.1 inch of precipitation,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DP05,Number of days with greater than or equal to 0.5 inch of precipitation,1,1781-01-01,2016-03-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DP10,Number of days with greater than or equal to 1.0 inch of precipitation,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DPA,Digital Precipitation Array,0.95,1994-06-17,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DPNP,Departure from normal monthly precipitation.,1,1888-12-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DPNT,Departure from normal monthly temperature.,1,1888-06-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DPR,Instantaneous Precipitation Rate,0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DSD,Storm Total Precipitation Difference = DTA-DSP,0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DSND,Number days with snow depth > 1 inch(25.4mm) for the period.,1,1863-12-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DSNW,Number days with snow depth > 1 inch.,1,1840-05-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DSP,Digital Storm Total Precipitation,0.95,1994-06-17,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DT00,Number days with minimum temperature less than or equal to 0.0 F,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DT32,Number days with minimum temperature less than or equal to 32.0 F,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DT60,Number days with minimum temperature < 59 F. (Puerto Rico and Virgin Islands only.),1,1942-01-01,1981-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DT70,Number days with maximum temperature > 70 F. (Alaska only.),1,1922-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DT90,Number days with maximum temperature greater than or equal 90.0 F,1,1763-01-01,2016-03-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DTA,Digital Storm Total Accumulation(Storm Total Precipitation total (256 levels) with Dual Pol. algorithm),0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DVL,Digital Vertical Integrated Liquid,0.95,1994-05-20,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DWPR,Number of days with non-zero precipitation included in multiday precipitation total (MDPR),1,1750-02-01,2023-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DX32,Number days with maximum temperature < 32 F.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DX60,Number days with maximum temperature < 59 F. (Puerto Rico and Virgin Islands only.),1,1942-01-01,1981-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DX70,Number days with maximum temperature > 70 F (21.1C),1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DX90,Number days with maximum temperature > 90 F (32.2C),1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DYNT,Day Extreme minimum temperature occurred for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DYSD,Day the extreme maximum daily Snow Depth for the period occurred.,1,1863-12-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DYSN,Day the extreme maximum daily snowfall for the period occurred.,1,1840-05-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DYXP,Day Extreme maximum daily precipitation for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+DYXT,Date Extreme maximum temperature occurred for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EET,Enhanced Echo Tops,0.95,1994-05-20,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EMNT,Extreme minimum temperature for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EMSD,Extreme maximum snow depth for the period.,1,1863-12-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EMSN,Extreme maximum snowfall for the period.,1,1840-05-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EMXP,Extreme maximum precipitation for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EMXT,Extreme maximum temperature for the period.,1,1750-02-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+EVAP,Evaporation of water from evaporation pan,1,1893-01-09,2024-10-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FMTM,Time of fastest mile or fastest 1-minute wind,1,1982-01-01,2013-03-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FRGB,Base of frozen ground layer,1,1946-10-29,1964-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FRGT,Top of frozen ground layer,1,1946-10-29,1964-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FRTH,Thickness of frozen ground layer,1,1948-01-01,1964-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FTM,Free Text Message,0.95,1994-05-20,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF0,First freeze <= to 32F/0C of the year.,1,1763-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF1,First freeze <= 28F/-2.2C of the year,1,1765-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF2,First freeze <= 24F/-4.4C of the year,1,1767-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF3,First freeze <= 20F/-6.7C of the year,1,1774-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF4,First freeze <= 16F/-8.9C of the year,1,1774-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF5,Last freeze <= 32F/0C of the year,1,1763-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF6,Last freeze <= 28F/-2.2C of the year,1,1763-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF7,Last freeze <= 24F/-4.4C of the year,1,1763-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF8,Last freeze <= 20F/-6.7C of the year,1,1766-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+FZF9,Last freeze <= 16F/-8.9C of the year,1,1767-01-01,2023-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+GAHT,Difference between river and gauge height,1,1913-07-25,1964-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+GSM,General Status Message,0.95,1994-05-20,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HDSD,Heating Degree Days Season to Date,1,1763-07-01,2024-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HHC,Hybrid Hydrometeor Classification,0.95,2011-03-08,2024-12-07,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLDH-NORMAL,Cooling degree hours,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLOD-PCTBKN,Clouds broken percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLOD-PCTCLR,Clouds clear percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLOD-PCTFEW,Clouds few percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLOD-PCTOVC,Clouds overcast percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-CLOD-PCTSCT,Clouds scattered percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-DEWP-10PCTL,Dew point 10th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-DEWP-90PCTL,Dew point 90th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-DEWP-NORMAL,Dew point mean,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-HIDX-NORMAL,Heat index mean,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-HTDH-NORMAL,Heating degree hours,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-PRES-10PCTL,Sea level pressure 10th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-PRES-90PCTL,Sea level pressure 90th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-PRES-NORMAL,Sea level pressure mean,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-TEMP-10PCTL,Temperature 10th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-TEMP-90PCTL,Temperature 90th percentile,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-TEMP-NORMAL,Temperature mean,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WCHL-NORMAL,Wind chill mean,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-1STDIR,Prevailing wind direction (1-8),1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-1STPCT,Prevailing wind percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-2NDDIR,Secondary wind direction (1-8),1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-2NDPCT,Secondary wind percentage,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-AVGSPD,Average wind speed,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-PCTCLM,Percentage calm,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-VCTDIR,Mean wind vector direction,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HLY-WIND-VCTSPD,Mean wind vector magnitude,1,2010-01-01,2010-12-31,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN01,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN0190,Highest minimum soil temperature for the month(cover: unknown,1,1984-01-01,2009-08-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN02,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN0290,Highest minimum soil temperature for the month(cover: unknown,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN0299,Highest minimum soil temperature for the month(cover: unknown,0.998,2011-01-01,2012-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN03,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN0390,Highest minimum soil temperature for the month(cover: unknown,1,1984-01-01,2009-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN04,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN05,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN06,Highest minimum soil temperature for the month (degrees F),1,1982-01-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN07,Highest minimum soil temperature for the month (degrees F),0.9997,1982-06-01,2024-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN08,Highest minimum soil temperature for the month (degrees F),0.97,1982-06-01,2024-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1190,Highest minimum soil temperature for the month(cover: grass,0.9819,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1191,Highest minimum soil temperature for the month(cover: grass,1,1984-01-01,1985-07-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1290,Highest minimum soil temperature for the month(cover: grass,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1291,Highest minimum soil temperature for the month(cover: grass,0.8807,1984-01-01,1989-07-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1299,Highest minimum soil temperature for the month(cover: grass,1,2011-01-01,2012-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1390,Highest minimum soil temperature for the month(cover: grass,0.998,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1391,Highest minimum soil temperature for the month(cover: grass,0.8497,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1399,Highest minimum soil temperature for the month(cover: grass,0.9819,2011-01-01,2011-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1490,Highest minimum soil temperature for the month(cover: grass,1,2010-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN1499,Highest minimum soil temperature for the month(cover: grass,0.9819,2011-01-01,2011-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2190,Highest minimum soil temperature for the month(cover: fallow,0.9338,1989-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2192,Highest minimum soil temperature for the month(cover: fallow,0.8663,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2290,Highest minimum soil temperature for the month(cover: fallow,0.9299,1989-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2292,Highest minimum soil temperature for the month(cover: fallow,0.8663,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2390,Highest minimum soil temperature for the month(cover: fallow,0.9338,1989-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN2392,Highest minimum soil temperature for the month(cover: fallow,0.6497,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3190,Highest minimum soil temperature for the month(cover: bare ground,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3192,Highest minimum soil temperature for the month(cover: bare ground,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3199,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3290,Highest minimum soil temperature for the month(cover: bare ground,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3292,Highest minimum soil temperature for the month(cover: bare ground,1,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3299,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3390,Highest minimum soil temperature for the month(cover: bare ground,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3392,Highest minimum soil temperature for the month(cover: bare ground,0.9845,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3399,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3490,Highest minimum soil temperature for the month(cover: bare ground,1,2004-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3499,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2011-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3590,Highest minimum soil temperature for the month(cover: bare ground,1,2004-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3599,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3690,Highest minimum soil temperature for the month(cover: bare ground,1,2006-04-01,2006-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN3699,Highest minimum soil temperature for the month(cover: bare ground,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5190,Highest minimum soil temperature for the month(cover: sod,0.9998,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5199,Highest minimum soil temperature for the month(cover: sod,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5290,Highest minimum soil temperature for the month(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5291,Highest minimum soil temperature for the month(cover: sod,1,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5299,Highest minimum soil temperature for the month(cover: sod,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5390,Highest minimum soil temperature for the month(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5399,Highest minimum soil temperature for the month(cover: sod,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5490,Highest minimum soil temperature for the month(cover: sod,0.998,2002-03-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5499,Highest minimum soil temperature for the month(cover: sod,1,2011-01-01,2011-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5590,Highest minimum soil temperature for the month(cover: sod,0.998,2002-03-01,2009-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5599,Highest minimum soil temperature for the month(cover: sod,1,2011-01-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN5699,Highest minimum soil temperature for the month(cover: sod,1,2012-09-01,2015-11-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN6190,Highest minimum soil temperature for the month(cover: straw mulch,0.9812,1984-01-01,1993-01-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN7290,Highest minimum soil temperature for the month(cover: grass muck,0.998,1989-03-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN7293,Highest minimum soil temperature for the month(cover: grass muck,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8190,Highest minimum soil temperature for the month(cover: bare muck,1,1990-01-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8193,Highest minimum soil temperature for the month(cover: bare muck,1,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8290,Highest minimum soil temperature for the month(cover: bare muck,0.998,1989-03-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8293,Highest minimum soil temperature for the month(cover: bare muck,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8390,Highest minimum soil temperature for the month(cover: bare muck,0.998,1989-03-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HN8393,Highest minimum soil temperature for the month(cover: bare muck,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO01A0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2006-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO01P0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO01P1,Highest soil temperature at observation time(cover: unknown,0.2577,1984-01-01,1989-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO01P2,Highest soil temperature at observation time(cover: unknown,0.7083,1985-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO02A0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2006-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO02P0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO02P1,Highest soil temperature at observation time(cover: unknown,0.6435,1986-01-01,1989-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO02P2,Highest soil temperature at observation time(cover: unknown,0.9993,1984-01-01,1985-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO03A0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2005-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO03P0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO03P1,Highest soil temperature at observation time(cover: unknown,0.519,1985-01-01,1989-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO03P2,Highest soil temperature at observation time(cover: unknown,0.6288,1984-02-01,1986-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO04A0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2007-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO04P0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO04P1,Highest soil temperature at observation time(cover: unknown,0.6387,1984-01-01,1986-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO04P2,Highest soil temperature at observation time(cover: unknown,0.519,1985-01-01,1989-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO05A0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-08-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO05P0,Highest soil temperature at observation time(cover: unknown,1,1984-01-01,2009-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO05P1,Highest soil temperature at observation time(cover: unknown,0.7664,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO05P2,Highest soil temperature at observation time(cover: unknown,0.8408,1989-01-01,1989-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO07P0,Highest soil temperature at observation time(cover: unknown,0.9762,2006-01-01,2009-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO11A0,Highest soil temperature at observation time(cover: grass,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO11P0,Highest soil temperature at observation time(cover: grass,1,1992-04-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO12A0,Highest soil temperature at observation time(cover: grass,0.9999,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO12P0,Highest soil temperature at observation time(cover: grass,0.9992,1992-04-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO13A0,Highest soil temperature at observation time(cover: grass,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO13P0,Highest soil temperature at observation time(cover: grass,1,2000-06-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO14A0,Highest soil temperature at observation time(cover: grass,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO14A1,Highest soil temperature at observation time(cover: grass,1,1984-01-01,1985-07-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO14P0,Highest soil temperature at observation time(cover: grass,0.8458,2000-06-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO15A0,Highest soil temperature at observation time(cover: grass,0.9999,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO15A1,Highest soil temperature at observation time(cover: grass,1,1984-01-01,1985-07-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO15P0,Highest soil temperature at observation time(cover: grass,0.8038,2000-06-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO16A0,Highest soil temperature at observation time(cover: grass,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO16P0,Highest soil temperature at observation time(cover: grass,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO17A0,Highest soil temperature at observation time(cover: grass,0.998,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO17P0,Highest soil temperature at observation time(cover: grass,0.7971,2006-01-01,2010-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO21A0,Highest soil temperature at observation time(cover: fallow,0.998,1984-01-01,1984-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO22A0,Highest soil temperature at observation time(cover: fallow,0.998,1984-01-01,1984-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO23A0,Highest soil temperature at observation time(cover: fallow,0.998,1984-01-01,1984-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO24A0,Highest soil temperature at observation time(cover: fallow,0.998,1984-01-01,1984-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO25A0,Highest soil temperature at observation time(cover: fallow,0.998,1984-01-01,1984-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO31A0,Highest soil temperature at observation time(cover: bare ground,1,1984-09-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO31P0,Highest soil temperature at observation time(cover: bare ground,0.998,1985-07-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO32A0,Highest soil temperature at observation time(cover: bare ground,1,1984-09-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO32P0,Highest soil temperature at observation time(cover: bare ground,0.998,1985-07-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO33A0,Highest soil temperature at observation time(cover: bare ground,1,1984-09-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO33P0,Highest soil temperature at observation time(cover: bare ground,0.998,1986-04-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO34A0,Highest soil temperature at observation time(cover: bare ground,0.9998,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO34A2,Highest soil temperature at observation time(cover: bare ground,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO34P0,Highest soil temperature at observation time(cover: bare ground,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO35A0,Highest soil temperature at observation time(cover: bare ground,0.9987,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO35A2,Highest soil temperature at observation time(cover: bare ground,1,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO35P0,Highest soil temperature at observation time(cover: bare ground,1,1984-10-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO36A0,Highest soil temperature at observation time(cover: bare ground,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO36P0,Highest soil temperature at observation time(cover: bare ground,0.9998,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO37A0,Highest soil temperature at observation time(cover: bare ground,0.8919,2006-01-01,2007-06-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO37P0,Highest soil temperature at observation time(cover: bare ground,0.998,2006-03-01,2006-04-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO51A0,Highest soil temperature at observation time(cover: sod,1,1987-04-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO51P0,Highest soil temperature at observation time(cover: sod,1,1987-08-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO52A0,Highest soil temperature at observation time(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO52P0,Highest soil temperature at observation time(cover: sod,1,1988-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO53A0,Highest soil temperature at observation time(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO53P0,Highest soil temperature at observation time(cover: sod,0.9908,1987-02-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO54A0,Highest soil temperature at observation time(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO54P0,Highest soil temperature at observation time(cover: sod,0.9998,1984-02-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO55A0,Highest soil temperature at observation time(cover: sod,1,1984-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO55P0,Highest soil temperature at observation time(cover: sod,1,1987-02-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO56A0,Highest soil temperature at observation time(cover: sod,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO56P0,Highest soil temperature at observation time(cover: sod,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO57A0,Highest soil temperature at observation time(cover: sod,1,2006-01-01,2010-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO57P0,Highest soil temperature at observation time(cover: sod,0.8514,2006-01-01,2010-09-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO84A0,Highest soil temperature at observation time(cover: bare muck,1,1990-01-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO84A3,Highest soil temperature at observation time(cover: bare muck,1,1984-01-01,1989-02-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO85A0,Highest soil temperature at observation time(cover: bare muck,0.998,1989-03-01,1990-10-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HO85A3,Highest soil temperature at observation time(cover: bare muck,0.9996,1984-01-01,1988-12-01,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
+HPCP,Precipitation,1,1750-02-01,2024-12-10,https://www.ncdc.noaa.gov/cdo-web/api/v2/datatypes?offset=1&limit=1000,2024-12-12T04:34:53
