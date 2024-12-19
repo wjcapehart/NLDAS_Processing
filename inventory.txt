@@ -1,4 +1,4 @@
-"mean_air_temperature", 
+["mean_air_temperature", 
 "specific_humidity", 
 "air_pressure", 
 "eastward_wind", 
@@ -37,4 +37,4 @@
 "mass_content_of_water_in_soil_layer",
 "soil_temperature",
 "maximum_air_temperature", 
-"minimum_air_temperature", 
+"minimum_air_temperature"]

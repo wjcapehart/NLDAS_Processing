@@ -101,7 +101,7 @@ dt              = 3600.
 #
 
 start_date = np.datetime64('1979-01-02')
-end_date   = np.datetime64('1979-01-31')
+end_date   = np.datetime64('1979-01-04')
 date_range = np.arange(start_date, end_date + np.timedelta64(1, 'D'))
 
 for working_date in date_range:
@@ -167,9 +167,9 @@ encoding = {"time" :{"units":"seconds since 1970-01-01 00:00:00",
 
 for variable in variable_list:
     encoding[variable] = dict(zlib      =       True,
-                              complevel =          5, 
+                              complevel =          7, 
                               dtype     = np.float32)
-print(encoding)
+
 #
 #################################################
 
@@ -180,7 +180,7 @@ print(encoding)
 for working_date in date_range:
 
     print("============================")
-
+    
     
     #################################################
     #
@@ -419,7 +419,7 @@ for working_date in date_range:
     xf_noah_daily.to_netcdf(path           = output_directory + fileout,
                             unlimited_dims = "time",
                             engine         = "h5netcdf",
-                            encoding       = encoding
+                            encoding       = encoding)
     
     #
     #########################################################

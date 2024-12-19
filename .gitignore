@@ -6,6 +6,8 @@ __pycache__/
 NLDAS_Ingest.py
 # C extensions
 *.so
+nohup.out
+.NLDAS_Ingest.????.py
 
 # Distribution / packaging
 .Python
