@@ -9,7 +9,7 @@
 
 
 
-# In[4]:
+# In[ ]:
 
 
 #################################################
@@ -51,7 +51,7 @@ for working_date in date_range:
 #################################################
 
 
-# In[6]:
+# In[ ]:
 
 
 #################################################
@@ -158,7 +158,6 @@ for working_date in date_range:
     #
     
     
-    del xf_noah_daily["time"].attrs["units"]
     
 
     print("  writing "+output_directory + fileout)
