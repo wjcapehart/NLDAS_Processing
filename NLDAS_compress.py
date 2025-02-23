@@ -23,7 +23,7 @@ import datetime          as datetime
 import pandas            as pd
 import h5netcdf          as h5netcdf
 import platform          as platform
-
+import shutil            as shutil
 
 #
 #################################################
@@ -156,18 +156,29 @@ for working_date in date_range:
     #
     # Write to File
     #
-    
-    
-    
 
-    print("  writing "+output_directory + fileout)
-    xf_noah_daily.to_netcdf(path           = output_directory + fileout,
+    print("  writing temp.nc")
+    xf_noah_daily.to_netcdf(path           = "./temp.nc",
                             unlimited_dims = "time",
                             engine         = "h5netcdf",
                             encoding       = encoding)
-    
+   
     #
     #########################################################
+
+     #########################################################
+    #
+    # Overwrite to File
+    #
+
+    print("  moving temp.nc")
+
+    shutil.move(src = "./temp.nc", 
+                dst = output_directory + fileout)
+    #
+    #########################################################
+
+   
 
     
 
