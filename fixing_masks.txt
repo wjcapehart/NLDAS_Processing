@@ -1,0 +1,30 @@
+nldas_mask["HUC_08"]     = nldas_mask["HUC_08"].astype("int32")
+nldas_mask["CLIMDIV"]    = nldas_mask["CLIMDIV"].astype("int32")
+nldas_mask["state_fips"]    = nldas_mask["state_fips"].astype("int32")
+nldas_mask["NLDAS_mask"] = nldas_mask["NLDAS_mask"].astype("int32")
+nldas_mask["CONUS_mask"] = nldas_mask["CONUS_mask"].astype("int32")
+
+nldas_mask["HUC_08"] = nldas_mask["HUC_08"].astype("int32")
+nldas_mask["huc08"]  = nldas_mask["huc08"].astype("int32")
+nldas_mask["huc06"]  = nldas_mask["huc06"].astype("int32")
+nldas_mask["huc04"]  = nldas_mask["huc04"].astype("int32")
+nldas_mask["huc02"]  = nldas_mask["huc02"].astype("int32")
+
+nldas_mask["CLIMDIV"]            = nldas_mask["CLIMDIV"].astype("int32")
+nldas_mask["climdiv"]            = nldas_mask["climdiv"].astype("int32")
+nldas_mask["climdiv_state_code"] = nldas_mask["climdiv_state_code"].astype("int32")
+nldas_mask["fips_cd"]            = nldas_mask["fips_cd"].astype("int32")
+nldas_mask["cdnew"]              = nldas_mask["cdnew"].astype("int32")
+
+nldas_mask["HUC_08"] = nldas_mask["HUC_08"].where(cond = nldas_mask["HUC_08"]>0,other=np.nan)
+nldas_mask["CLIMDIV"] = nldas_mask["CLIMDIV"].where(cond = nldas_mask["CLIMDIV"]>0,other=np.nan)
+
+nldas_mask["huc08_name"] = nldas_mask["huc08_name"].astype(str)
+nldas_mask["huc06_name"] = nldas_mask["huc06_name"].astype(str)
+nldas_mask["huc04_name"] = nldas_mask["huc04_name"].astype(str)
+nldas_mask["huc02_name"] = nldas_mask["huc02_name"].astype(str)
+nldas_mask["huc08_state"] = nldas_mask["huc08_state"].astype(str)
+nldas_mask["climdiv_name"] = nldas_mask["climdiv_name"].astype(str)
+nldas_mask["climdiv_state_abrv"] = nldas_mask["climdiv_state_abrv"].astype(str)
+nldas_mask["climdiv_state_name"] = nldas_mask["climdiv_state_name"].astype(str)
+nldas_mask
