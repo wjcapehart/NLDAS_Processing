@@ -184,7 +184,7 @@ latitude_longitude = xr.DataArray(name  = "latitude_longitude",
                                            "semi_major_axis":6378137.0 ,
                                            "inverse_flattening":298.257223563})
 
-display(latitude_longitude)
+print(latitude_longitude)
 
 #
 #################################################
@@ -241,7 +241,7 @@ print("---------------------------")
 #                                stop  = end_date+1, 
 #                                step  = np.timedelta64(1, 'D'))
 # 
-# display(time_series_to_end)
+# print(time_series_to_end)
 # 
 # #
 # #################################################
@@ -264,7 +264,7 @@ date_range = np.arange(start = start_date,
                        stop  = end_date+1, 
                        step  = np.timedelta64(1, 'D'))
 
-display(date_range)
+print(date_range)
 
 #
 #################################################
@@ -300,7 +300,7 @@ for working_date in date_range:
     results_nldas  = earthaccess.search_data(doi      = doi_nldas_2_forA,
                                              temporal = (str(filedate) + ' 00:00:00',
                                                          str(filedate) + ' 23:59:00')) 
-    # display(results_nldas)
+    # print(results_nldas)
 
     print("")
     print("---------------------------")
@@ -317,7 +317,7 @@ for working_date in date_range:
 
     fs_nldas = earthaccess.open(results_nldas) # Extracts URLs from the results variable    
 
-    #display(fs_nldas)
+    #print(fs_nldas)
 
     print("")
     print("---------------------------")
