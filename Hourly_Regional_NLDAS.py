@@ -123,7 +123,7 @@ subset_name = "SODAK"
 #
 
 if (platform.system() == "Linux"):
-    root_dir = "/data/DATASETS/NLDAS/hourly/"+subset_name
+    root_dir = "/data/DATASETS/NLDAS/hourly/"+subset_name + "/"
 else:
     root_dir = "./data/"
 
