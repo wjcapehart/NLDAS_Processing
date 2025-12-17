@@ -49,7 +49,7 @@ import cartopy.feature   as cfeature
 # Getting Spatial Metadata 
 #
 
-xf_metadata = xr.open_dataset(filename_or_obj = "~/Downloads/MERRA2_101.const_2d_asm_Nx.00000000.nc4.ncml.nc")
+xf_metadata = xr.open_dataset(filename_or_obj = "./MERRA2_101.const_2d_asm_Nx.00000000.nc4.ncml.nc")
 
 nx   = xf_metadata["lon"].values.size
 ny   = xf_metadata["lat"].values.size
@@ -120,7 +120,7 @@ auth.token
 # Date Range
 #
 
-start_year = 1981
+start_year = 1980
 end_year   = 2025
 
 
@@ -175,10 +175,10 @@ variable_list = ["H",
 encoding = {"time" :{"units":"seconds since 1970-01-01 00:00:00",
                      "dtype":np.float64}}
 
-for variable in variable_list:
-    encoding[variable] = dict(zlib      =       True,
-                              complevel =          7, 
-                              dtype     = np.float32)
+#for variable in variable_list:
+#    encoding[variable] = dict(zlib      =       True,
+#                              complevel =          7, 
+#                              dtype     = np.float32)
 
 variable_list = ["time","lev","lat","lon",
                  "H", 
@@ -238,7 +238,7 @@ for year in year_range:
     # Write to File
     #
 
-
+    print("writing file")
     #del ds_merra["time"].attrs["units"]
     ds_merra.to_netcdf(path           = output_directory + fileout,
                        unlimited_dims = "time",
@@ -250,6 +250,12 @@ for year in year_range:
 
     #
     #########################################################
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:
