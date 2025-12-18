@@ -1,13 +1,13 @@
 INDEX,CLASS,Aggregation,new_name,standard_name,long_name,units_in
-PSurf,1_ATM,MEAN,air_pressure,air_pressure,Surface pressure,Pa
-Tair,1_ATM,MEAN,air_temperature,air_temperature,2-meter air temperature,K
-CAPE,1_ATM,MEAN,atmosphere_convective_available_potential_energy,atmosphere_convective_available_potential_energy,Convective Available Potential Energy,J kg-1
-Wind_E,1_ATM,MEAN,eastward_wind,eastward_wind,10-meter above ground zonal wind speed,m s-1
-LWdown,1_ATM,INTEGRAL,surface_downward_longwave_flux,surface_net_downward_longwave_flux,Longwave radiation flux downwards (surface),W m-2
-SWdown,1_ATM,INTEGRAL,surface_downward_shortwave_flux,surface_net_downward_shortwave_flux,Shortwave radiation flux downwards (surface),W m-2
-PotEvap,2_ENERGY,INTEGRAL,water_potential_evaporation_flux,water_potential_evaporation_flux,Potential evapotranspiration,kg m-2
-Wind_N,1_ATM,MEAN,northward_wind,northward_wind,10-meter above ground meridional wind speed,m s-1
-Rainf,1_ATM,SUM,precipitation_amount,precipitation_amount,Liquid precipitation (rainfall),kg m-2
-Qair,1_ATM,MEAN,specific_humidity,specific_humidity,2-meter above ground Specific humidity,kg kg-1
 time_bnds,0_COORD,COORD,time_bnds,time,time bounds,seconds since 1970-01-01 00:00:00
-CRainf_frac,1_ATM,SUM,convective_precipitation_fraction,convective_precipitation_fraction,Fraction of total precipitation that is convective,fraction
+PSurf,1_ATM,POINT,air_pressure,air_pressure,Surface pressure,Pa
+Tair,1_ATM,POINT,air_temperature,air_temperature,2-meter air temperature,K
+Qair,1_ATM,POINT,specific_humidity,specific_humidity,2-meter above ground Specific humidity,kg kg-1
+Wind_E,1_ATM,POINT,eastward_wind,eastward_wind,10-meter above ground zonal wind speed,m s-1
+Wind_N,1_ATM,POINT,northward_wind,northward_wind,10-meter above ground meridional wind speed,m s-1
+LWdown,1_ATM,POINT,surface_downward_longwave_flux,surface_net_downward_longwave_flux,Longwave radiation flux downwards (surface),W m-2
+SWdown,1_ATM,POINT,surface_downward_shortwave_flux,surface_net_downward_shortwave_flux,Shortwave radiation flux downwards (surface),W m-2
+CAPE,1_ATM,POINT,atmosphere_convective_available_potential_energy,atmosphere_convective_available_potential_energy,Convective Available Potential Energy,J kg-1
+Rainf,1_ATM,SUM,precipitation_amount,precipitation_amount,Liquid precipitation (rainfall),kg m-2
+CRainf_frac,1_ATM,MEAN,convective_precipitation_fraction,convective_precipitation_fraction,Fraction of total precipitation that is convective,fraction
+PotEvap,2_ENERGY,INTEGRAL,water_potential_evaporation_flux,water_potential_evaporation_flux,Potential evapotranspiration,kg m-2
