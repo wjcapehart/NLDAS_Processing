@@ -396,8 +396,9 @@ for working_date in date_range:
     print("writing "+output_directory + output_filename)    
     output_fileloc = output_directory + output_filename
 
-    ds_nldas.to_netcdf(path     = output_fileloc,
-                       encoding = encoding)
+    ds_nldas.to_netcdf(path           = output_fileloc,
+                       encoding       = encoding,
+                       unlimited_dims = ['time'])
 
     #
     #################################################
