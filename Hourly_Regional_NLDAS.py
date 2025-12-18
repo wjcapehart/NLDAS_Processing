@@ -158,17 +158,17 @@ encoding = {"time"      :{"units":"hours since 1970-01-01 00:00:00",
             "time_bnds" :{"units":"hours since 1970-01-01 00:00:00",
                           "dtype":np.float64}}
 
-variable_list = ['air_pressure',
-                 'air_temperature',
-                 'atmosphere_convective_available_potential_energy',
-                 'eastward_wind',
-                 'surface_downward_longwave_flux',
-                 'surface_downward_shortwave_flux',
-                 'surface_upward_potential_latent_heat_flux',
-                 'northward_wind',
-                 'precipitation_amount',
-                 'specific_humidity',
-                 'convective_precipitation_fraction']
+variable_list = ["air_pressure",
+                 "air_temperature",
+                 "specific_humidity",
+                 "eastward_wind",
+                 "northward_wind",
+                 "surface_downward_longwave_flux",
+                 "surface_downward_shortwave_flux",
+                 "atmosphere_convective_available_potential_energy",
+                 "precipitation_amount",
+                 "convective_precipitation_fraction",
+                 "water_potential_evaporation_flux"]
 
 
 for variable in variable_list:
@@ -255,7 +255,7 @@ print("---------------------------")
 # Date Range (Monthly)
 #
 
-start_date = np.datetime64('1979-01-01')
+start_date = np.datetime64('2009-01-01')
 end_date   = np.datetime64('2025-01-01')
 
 
