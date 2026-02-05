@@ -83,7 +83,7 @@ df_varlut = pd.read_csv(filepath_or_buffer = "./metadata_lookup.csv", index_col=
 #
 
 if (platform.system() == "Linux"):
-    root_dir = "/data/DATASETS/NLDAS/netcdf/"
+    root_dir = "/data/DATASETS/NLDAS/THREDDS/DAILY/CONUS/"
 else:
     root_dir = "./data/"
 
@@ -107,7 +107,7 @@ dt              = 3600.
 # Date Range
 #
 
-start_date = np.datetime64('2025-12-21')
+start_date = np.datetime64('2026-02-01')
 end_date   = np.datetime64('2026-02-04')
 date_range = np.arange(start_date, end_date + np.timedelta64(1, 'D'))
 

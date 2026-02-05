@@ -110,8 +110,8 @@ out_monthly_dir      = "/data/DATASETS/NLDAS/THREDDS/MONTHLY"
 # Date Range
 #
 
-start_date = np.datetime64('1979-10')
-end_date   = np.datetime64('2025-12')
+start_date = np.datetime64('2026-01')
+end_date   = np.datetime64('2026-01')
 date_range = np.arange(start_date, end_date + np.timedelta64(1, 'M'))
 
 for working_date in date_range:
