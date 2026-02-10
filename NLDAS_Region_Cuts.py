@@ -143,7 +143,7 @@ variable_list = ["mean_air_temperature",
 
 
 encoding = {"time"       :{"units":"seconds since 1970-01-01 00:00:00",
-                           "dtype":np.float64} }
+                           "dtype":np.float64}  }
 
 for variable in variable_list:
     encoding[variable] = dict(zlib      =       True,
