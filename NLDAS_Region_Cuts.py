@@ -248,20 +248,21 @@ df_climdiv_table.index
 # 
 
 
-if (localle == "nCLIMDIV-"):
-    localle_places = 4
-    file_prefix    = root_nldas_url +  "MONTHLY/CLIMDIV/" + localle + str(my_region).zfill(localle_places)
-
-else:
-    localle_places = 8
-    file_prefix    = root_nldas_url +  "MONTHLY/HUC08/" + localle + str(my_region).zfill(localle_places)
 
 
 for my_region in df_climdiv_table.index:
 
 
+    if (localle == "nCLIMDIV-"):
+        localle_places = 4
+        file_prefix    = root_nldas_url +  "MONTHLY/CLIMDIV/" + localle + str(my_region).zfill(localle_places)
+
+    else:
+        localle_places = 8
+        file_prefix    = root_nldas_url +  "MONTHLY/HUC08/" + localle + str(my_region).zfill(localle_places)
 
     print("-> Processing Region : ", my_region)
+
     #
     # Create Mask
     #
