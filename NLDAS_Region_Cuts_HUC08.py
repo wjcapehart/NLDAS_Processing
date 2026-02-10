@@ -288,7 +288,7 @@ for my_region in df_huc08_table.index:
     #
 
     if (0 in (local_clip.shape)):
-        print("   -> Empty Box "+local_clip.shape)    
+        print("   -> Empty Box ", str(my_region).zfill(localle_places))
     else:
         lon_max    = local_clip.coords["lon"].max().values
         lat_max    = local_clip.coords["lat"].max().values
