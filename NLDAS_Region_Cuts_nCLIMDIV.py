@@ -304,7 +304,8 @@ for my_region in df_climdiv_table.index:
     # Aggregate
     #
 
-    df_nldas_regional_mean   = df_nldas_regional.mean(dim = ['lat', 'lon'])
+    df_nldas_regional_mean   = df_nldas_regional.mean(dim        = ['lat', 'lon'],
+                                                      keep_attrs = True)
 
 
 
