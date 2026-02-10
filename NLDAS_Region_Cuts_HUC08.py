@@ -269,13 +269,13 @@ for my_region in df_huc08_table.index:
         localle_places = 8
         file_prefix    = root_nldas_url +  "MONTHLY/HUC08/" + localle + str(my_region).zfill(localle_places)
 
-    print("-> Processing Region : ", my_region)
+    print("-> Processing Region : ", str(my_region).zfill(localle_places))
 
     #
     # Create Mask
     #
 
-    print("   -> Selecting Mask or Region", my_region)
+    print("   -> Selecting Mask or Region", str(my_region).zfill(localle_places))
 
     local_mask = regional_mask.where(regional_mask == my_region)
     local_mask = local_mask/local_mask
@@ -283,62 +283,74 @@ for my_region in df_huc08_table.index:
     local_clip = local_mask.dropna(dim="lat", how="all").\
                             dropna(dim="lon", how="all")
 
-
-    lon_max    = local_clip.coords["lon"].max().values
-    lat_max    = local_clip.coords["lat"].max().values
-
-    lon_min    = local_clip.coords["lon"].min().values
-    lat_min    = local_clip.coords["lat"].min().values
-
-    print("   -> Apply Box Clip: ",lon_min, lon_max,lat_min, lat_max)    
-
-    ds_CONUS_clipped =   ds_CONUS.sel(lon=slice(lon_min, lon_max), 
-                                      lat=slice(lat_min, lat_max))
-
-    local_clip       = local_mask.sel(lon=slice(lon_min, lon_max), 
-                                      lat=slice(lat_min, lat_max))
-
-    print("   -> Apply Mask")
-
     #
-    # Mask
+    # Resolvable Boundaries?
     #
 
-    df_nldas_regional       = ds_CONUS_clipped.where(local_clip>0)
+    if (0 in (local_clip.shape)):
+        print("   -> Empty Box "+local_clip.shape)    
+    else:
+        lon_max    = local_clip.coords["lon"].max().values
+        lat_max    = local_clip.coords["lat"].max().values
 
-    print("   -> Aggregate Mask")
+        lon_min    = local_clip.coords["lon"].min().values
+        lat_min    = local_clip.coords["lat"].min().values
 
-    #
-    # Aggregate
-    #
+        print("   -> Apply Box Clip: ",lon_min, lon_max,lat_min, lat_max)    
 
-    df_nldas_regional_mean  = df_nldas_regional.mean(dim = ['lat', 'lon'])
+        ds_CONUS_clipped =   ds_CONUS.sel(lon=slice(lon_min, lon_max), 
+                                          lat=slice(lat_min, lat_max))
+
+        local_clip       = local_mask.sel(lon=slice(lon_min, lon_max), 
+                                          lat=slice(lat_min, lat_max))
+
+        print("   -> Apply Mask")
+
+        #
+        # Mask
+        #
+
+        df_nldas_regional       = ds_CONUS_clipped.where(local_clip>0)
+
+        print("   -> Aggregate Mask")
+
+        #
+        # Aggregate
+        #
+
+        df_nldas_regional_mean  = df_nldas_regional.mean(dim = ['lat', 'lon'])
 
 
 
 
-    #################################################
-    #
-    # Drop NetCDF Files
-    #
+        #################################################
+        #
+        # Drop NetCDF Files
+        #
 
-    aggregate_output_file = file_prefix+"_NLDAS_NOAH_MONTHLY_1979-02_to_2026-01.nc"
+        aggregate_output_file = file_prefix+"_NLDAS_NOAH_MONTHLY_1979-02_to_2026-01.nc"
 
-    print("   -> Export NETCDF to ", aggregate_output_file)
+        print("   -> Export NETCDF to ", aggregate_output_file)
 
 
-    df_nldas_regional_mean.to_netcdf(path           = aggregate_output_file,
-                                     unlimited_dims = "time",
-                                     engine         = "h5netcdf",
-                                     encoding       = encoding)
+        df_nldas_regional_mean.to_netcdf(path           = aggregate_output_file,
+                                         unlimited_dims = "time",
+                                         engine         = "h5netcdf",
+                                         encoding       = encoding)
 
-    #
-    #################################################
+        #
+        #################################################
 
-    print("-----------------")
+        print("-----------------")
 
-    #
-    ##############################################
+        #
+        ##############################################
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:
