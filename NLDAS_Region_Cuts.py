@@ -308,7 +308,6 @@ for my_region in df_climdiv_table.index:
     df_nldas_regional_mean   = df_nldas_regional.mean(dim = ['lat', 'lon'])
 
 
-    print("   -> Export NetCSF")
 
     #################################################
     #
@@ -317,6 +316,7 @@ for my_region in df_climdiv_table.index:
 
     aggregate_output_file = file_prefix+"_NLDAS_NOAH_MONTHLY_1979-02_to_2026-01.nc"
 
+    print("   -> Export NETCDF to ", aggregate_output_file)
 
 
     df_nldas_regional_mean.to_netcdf(path           = aggregate_output_file,
