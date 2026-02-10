@@ -282,7 +282,8 @@ for my_region in df_climdiv_table.index:
     lon_min    = local_clip.coords["lon"].min().values
     lat_min    = local_clip.coords["lat"].min().values
 
-    print("   -> Apply Box Clip: ",lon_min, lon_max,lat_min, lat_max)    
+    print("   -> Apply Box Clip: ",lon_min, lon_max,  \
+                                   lat_min, lat_max)    
 
     ds_CONUS_clipped =   ds_CONUS.sel(lon=slice(lon_min, lon_max), 
                                       lat=slice(lat_min, lat_max))
@@ -304,7 +305,7 @@ for my_region in df_climdiv_table.index:
     # Aggregate
     #
 
-    df_nldas_regional_mean  = df_nldas_regional.mean(dim = ['lat', 'lon'])
+    df_nldas_regional_mean   = df_nldas_regional.mean(dim = ['lat', 'lon'])
 
 
     print("   -> Export NetCSF")
